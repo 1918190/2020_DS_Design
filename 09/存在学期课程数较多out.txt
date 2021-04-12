@@ -1,0 +1,96 @@
+第1学期课表如下:
+null		null		null		程序设计基础	null		
+null		null		null		程序设计基础	null		
+高等数学		程序设计基础	高等数学		大学语文		null		
+高等数学		程序设计基础	高等数学		大学语文		null		
+高等数学		程序设计基础	高等数学		大学语文		null		
+null		null		null		英语		null		
+null		null		null		英语		null		
+计算机组成原理	英语		计算机组成原理	null		null		
+计算机组成原理	英语		计算机组成原理	null		null		
+计算机组成原理	英语		计算机组成原理	null		null		
+
+第2学期课表如下:
+null		null		英语		null		null		
+null		null		英语		null		null		
+离散数学		null		离散数学		null		null		
+离散数学		null		离散数学		null		null		
+离散数学		null		离散数学		null		null		
+null		null		null		null		null		
+null		null		null		null		null		
+英语		null		null		null		null		
+英语		null		null		null		null		
+英语		null		null		null		null		
+
+第3学期课表如下:
+数据结构算法	null		英语		null		null		
+数据结构算法	null		英语		null		null		
+线性代数		null		线性代数		null		null		
+线性代数		null		线性代数		null		null		
+线性代数		null		线性代数		null		null		
+null		null		数据结构算法	null		null		
+null		null		数据结构算法	null		null		
+英语		null		null		null		null		
+英语		null		null		null		null		
+英语		null		null		null		null		
+
+第4学期课表如下:
+微机原理		null		汇编语言		英语		null		
+微机原理		null		汇编语言		英语		null		
+数据通信		英语		数据通信		null		null		
+数据通信		英语		数据通信		null		null		
+数据通信		英语		数据通信		null		null		
+null		null		微机原理		null		null		
+null		null		微机原理		null		null		
+汇编语言		单片机应用	计算机文化	null		null		
+汇编语言		单片机应用	计算机文化	null		null		
+汇编语言		单片机应用	计算机文化	null		null		
+
+第5学期课表如下:
+操作系统原理	null		计算机网络	编译原理		操作系统原理	
+操作系统原理	null		计算机网络	编译原理		操作系统原理	
+计算机网络	编译原理		面向对象程序设计	null		null		
+计算机网络	编译原理		面向对象程序设计	null		null		
+计算机网络	编译原理		面向对象程序设计	null		null		
+null		null		数据库原理	英语		null		
+null		null		数据库原理	英语		null		
+数据库原理	英语		null		null		null		
+数据库原理	英语		null		null		null		
+数据库原理	英语		null		null		null		
+
+第6学期课表如下:
+null		null		PowerBuilder	英语		null		
+null		null		PowerBuilder	英语		null		
+PowerBuilder	英语		null		null		null		
+PowerBuilder	英语		null		null		null		
+PowerBuilder	英语		null		null		null		
+null		null		C#.net		null		null		
+null		null		C#.net		null		null		
+C#.net		Java		null		null		null		
+C#.net		Java		null		null		null		
+C#.net		Java		null		null		null		
+
+第7学期课表如下:
+null		null		英语		null		null		
+null		null		英语		null		null		
+英语		null		null		null		null		
+英语		null		null		null		null		
+英语		null		null		null		null		
+null		null		null		null		null		
+null		null		null		null		null		
+VC++		null		null		null		null		
+VC++		null		null		null		null		
+VC++		null		null		null		null		
+
+第8学期课表如下:
+算法设计		VB.net		ASP程序设计	C++Builder	算法设计		
+算法设计		VB.net		ASP程序设计	C++Builder	算法设计		
+数值分析		C++Builder	数值分析		VB.net		ASP程序设计	
+数值分析		C++Builder	数值分析		VB.net		ASP程序设计	
+数值分析		C++Builder	数值分析		VB.net		ASP程序设计	
+普通物理		JSP程序设计	英语		Delphi		普通物理		
+普通物理		JSP程序设计	英语		Delphi		普通物理		
+计算机系统结构	Delphi		计算机系统结构	JSP程序设计	英语		
+计算机系统结构	Delphi		计算机系统结构	JSP程序设计	英语		
+计算机系统结构	Delphi		计算机系统结构	JSP程序设计	英语		
+

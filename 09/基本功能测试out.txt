@@ -1,0 +1,96 @@
+第1学期课表如下:
+null		null		null		程序设计基础	null		
+null		null		null		程序设计基础	null		
+高等数学		程序设计基础	高等数学		大学语文		null		
+高等数学		程序设计基础	高等数学		大学语文		null		
+高等数学		程序设计基础	高等数学		大学语文		null		
+null		null		null		英语		null		
+null		null		null		英语		null		
+计算机组成原理	英语		计算机组成原理	null		null		
+计算机组成原理	英语		计算机组成原理	null		null		
+计算机组成原理	英语		计算机组成原理	null		null		
+
+第2学期课表如下:
+null		null		null		英语		null		
+null		null		null		英语		null		
+数据通信		离散数学		数据通信		离散数学		null		
+数据通信		离散数学		数据通信		离散数学		null		
+数据通信		离散数学		数据通信		离散数学		null		
+null		null		null		null		null		
+null		null		null		null		null		
+线性代数		英语		线性代数		计算机文化	null		
+线性代数		英语		线性代数		计算机文化	null		
+线性代数		英语		线性代数		计算机文化	null		
+
+第3学期课表如下:
+数据结构算法	null		数据结构算法	汇编语言		null		
+数据结构算法	null		数据结构算法	汇编语言		null		
+数值分析		汇编语言		数值分析		null		null		
+数值分析		汇编语言		数值分析		null		null		
+数值分析		汇编语言		数值分析		null		null		
+null		null		null		英语		null		
+null		null		null		英语		null		
+计算机系统结构	英语		计算机系统结构	null		null		
+计算机系统结构	英语		计算机系统结构	null		null		
+计算机系统结构	英语		计算机系统结构	null		null		
+
+第4学期课表如下:
+操作系统原理	null		编译原理		操作系统原理	null		
+操作系统原理	null		编译原理		操作系统原理	null		
+编译原理		单片机应用	null		null		null		
+编译原理		单片机应用	null		null		null		
+编译原理		单片机应用	null		null		null		
+微机原理		null		英语		微机原理		null		
+微机原理		null		英语		微机原理		null		
+英语		null		null		null		null		
+英语		null		null		null		null		
+英语		null		null		null		null		
+
+第5学期课表如下:
+null		null		计算机网络	英语		null		
+null		null		计算机网络	英语		null		
+计算机网络	英语		面向对象程序设计	null		null		
+计算机网络	英语		面向对象程序设计	null		null		
+计算机网络	英语		面向对象程序设计	null		null		
+null		null		数据库原理	null		null		
+null		null		数据库原理	null		null		
+数据库原理	Java		null		null		null		
+数据库原理	Java		null		null		null		
+数据库原理	Java		null		null		null		
+
+第6学期课表如下:
+null		null		ASP程序设计	C#.net		null		
+null		null		ASP程序设计	C#.net		null		
+ASP程序设计	C#.net		VC++		null		null		
+ASP程序设计	C#.net		VC++		null		null		
+ASP程序设计	C#.net		VC++		null		null		
+null		null		PowerBuilder	英语		null		
+null		null		PowerBuilder	英语		null		
+PowerBuilder	英语		null		null		null		
+PowerBuilder	英语		null		null		null		
+PowerBuilder	英语		null		null		null		
+
+第7学期课表如下:
+null		null		C++Builder	VB.net		英语		
+null		null		C++Builder	VB.net		英语		
+C++Builder	VB.net		英语		null		null		
+C++Builder	VB.net		英语		null		null		
+C++Builder	VB.net		英语		null		null		
+null		null		Delphi		JSP程序设计	null		
+null		null		Delphi		JSP程序设计	null		
+Delphi		JSP程序设计	null		null		null		
+Delphi		JSP程序设计	null		null		null		
+Delphi		JSP程序设计	null		null		null		
+
+第8学期课表如下:
+算法设计		null		英语		普通物理		null		
+算法设计		null		英语		普通物理		null		
+英语		null		null		null		null		
+英语		null		null		null		null		
+英语		null		null		null		null		
+普通物理		null		算法设计		null		null		
+普通物理		null		算法设计		null		null		
+null		null		null		null		null		
+null		null		null		null		null		
+null		null		null		null		null		
+
